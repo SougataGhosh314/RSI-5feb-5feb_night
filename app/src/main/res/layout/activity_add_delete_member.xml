@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AddDeleteMemberActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scrollbars="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Add or Delete Member"
+                android:textColor="@color/colorAccent"
+                android:textSize="16dp"
+                android:textAllCaps="false"
+                android:background="@color/colourBlack"
+                android:clickable="false"
+                android:textStyle="bold|italic"/>
+
+            <Button
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/buttonDeleteMember"
+                android:text="Delete Member"
+                android:layout_gravity="center"
+                android:textColor="@color/colorAccent"
+                android:textSize="14dp"
+                android:layout_marginTop="10dp"
+                android:textAllCaps="false"
+                android:background="@color/colourBlack"
+                android:clickable="true"
+                android:textStyle="bold|italic"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:id="@+id/linearLayoutDelete"
+                android:visibility="gone">
+
+                <EditText
+                    android:layout_width="0px"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="4"
+                    android:id="@+id/editTextID"
+                    android:hint="Enter RSI ID"/>
+
+                <Button
+                    android:layout_width="0px"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@color/colorPrimary"
+                    android:textColor="@color/colorAccent"
+                    android:id="@+id/buttonDelete"
+                    android:text="Delete"/>
+
+            </LinearLayout>
+
+            <Button
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/buttonAddMember"
+                android:text="Add Member"
+                android:layout_gravity="center"
+                android:textColor="@color/colorAccent"
+                android:textSize="14dp"
+                android:layout_marginTop="10dp"
+                android:textAllCaps="false"
+                android:background="@color/colourBlack"
+                android:clickable="true"
+                android:textStyle="bold|italic"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:visibility="gone"
+                android:id="@+id/linearLayoutAdd">
+
+                <EditText
+                    android:layout_width="200dp"
+                    android:layout_gravity="center"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/editTextAddID"
+                    android:hint="Enter RSI ID"/>
+
+                <EditText
+                    android:layout_width="250dp"
+                    android:layout_gravity="center"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/editTextAddPhone"
+                    android:inputType="number"
+                    android:maxLength="10"
+                    android:hint="Enter phone number"/>
+
+                <EditText
+                    android:layout_width="250dp"
+                    android:layout_gravity="center"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/editTextAddDep"
+                    android:hint="Enter no. of dependent(s)"/>
+
+                <Button
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:id="@+id/buttonAdd"
+                    android:background="@color/colorPrimary"
+                    android:textSize="14dp"
+                    android:textColor="@color/colorAccent"
+                    android:layout_gravity="center"
+                    android:text="Add"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>

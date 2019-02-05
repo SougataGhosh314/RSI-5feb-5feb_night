@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EFEFEF"
+    android:orientation="vertical"
+    android:id="@+id/parentCheck"
+    tools:context=".checkSeat">
+    <LinearLayout
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        >
+        <Button
+            android:id="@+id/chkOk"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:background="#545151"
+            android:textColor="#F7D00C"
+            android:text="OK"
+            />
+        <Button
+            android:id="@+id/chkReset"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:background="#1e1d1d"
+            android:textColor="#F7D00C"
+            android:text="Reset"
+            />
+    </LinearLayout>
+
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="16"
+        android:id="@+id/check2"
+        android:scrollbars="vertical">
+
+        <HorizontalScrollView
+            android:id="@+id/checklayoutSeat"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" />
+
+    </ScrollView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:text="Please Wait !!"
+        android:gravity="center"
+        android:id="@+id/chekStatus"
+        android:background="@android:color/holo_blue_dark"
+        android:textColor="@android:color/background_light"
+        android:textSize="16dp"
+        android:textStyle="bold"
+        />
+
+</LinearLayout>

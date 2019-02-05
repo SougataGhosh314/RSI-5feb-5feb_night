@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--
+
+    <PreferenceCategory
+        android:title="Sync Information"
+        android:key="sync_category">
+
+        <CheckBoxPreference
+            android:key="perform_sync"
+            android:summary="Enable or disable data sync"
+            android:title="Enable Auto Sync"
+            android:defaultValue="true"/>
+
+        <ListPreference
+            android:key="sync_interval"
+            android:title="Sync interval"
+            android:summary="Define how often sync will be performed"
+            android:defaultValue="1000"
+            android:entries="@array/updateInterval"
+            android:entryValues="@array/updateIntervalValues"
+            android:dependency="perform_sync"/>
+
+    </PreferenceCategory>
+-->
+    <PreferenceCategory
+        android:title="UPI ID"
+        android:key="upi_category">
+
+
+        <EditTextPreference
+            android:key="upi_id"
+            android:title="UPI ID"
+            android:dialogTitle="UPI ID"
+            android:dialogMessage="Enter UPI ID of beneficiary"
+            android:inputType="text"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="Pricing"
+        android:key="pricing_category">
+
+
+        <EditTextPreference
+            android:key="mem_price"
+            android:title="Member/Dependant"
+            android:dialogTitle="Member/Dependant Price"
+            android:dialogMessage="Enter charges for Member/Dependant"
+            android:inputType="numberDecimal"/>
+
+        <EditTextPreference
+            android:key="gue_price"
+            android:title="Guest"
+            android:dialogTitle="Guest Price"
+            android:dialogMessage="Enter charges for Guest"
+            android:inputType="numberDecimal"/>
+
+    </PreferenceCategory>
+
+
+</PreferenceScreen>

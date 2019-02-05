@@ -1,0 +1,377 @@
+<resources>
+    <string name="app_name">RSAMI</string>
+
+    <string name="spinner_dependants">spinner_1</string>
+    <string name="spinner_guests">spinner_2</string>
+
+    <string-array name="dep_no_0">
+        <item>0</item>
+    </string-array>
+
+    <string-array name="dep_no_1">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+
+    <string-array name="dep_no_2">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="dep_no_3">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="dep_no_4">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="dep_no_5">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="dep_no_6">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+
+    <string-array name="guests_no">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="aboutRSAMI">In 1949, the need for a Central Sports and Games ground for Southern command was felt and General Maharaja Shri Rajendra Sinhji, D.S.O, GOC-in-C Southern Command, ordered the Polo Club ground to be leveled to accommodate a Cricket, Football and  Hockey ground……………..
+
+….approached Poona club…… The Poona club, however, could not find their way to meet this request……….
+
+……..It was then decided by the GOC-in-C to start in a small way………………..An open air dance was organized on 15th March 1950 to collect funds and at the same time mark the opening of the institute………….
+
+………..A meeting of the officers of the Poona Garrison was held and the officers unanimously requested General Rajendra Sinhji to agree to the club being called ‘The Rajendra Sinhji Army Mess and Institute for Defense Services Officers’
+
+Thus on 20th April 1950 the Rajendra Sinhji Army Mess and Institute officially came into being ……………
+………….The motto approved for the Institute is ‘Comradeship through Sport’……………..</string>
+
+
+    <string name="contactUs">RAJENDRA SINHJI ARMY MESS AND INSTITUTE, Pune
+\n(A COMBINED OFFICERS\' MESS)\n\n
+
+No 1, Ashoka Marg, Pune- 411001\n
+Maharashtra, INDIA\n\n
+
+Tel : (020) 26022917, 26361105\n
+
+Email: rsipune@gmail.com\n
+
+Website: www.rsipune.org</string>
+
+    <string name="membershipRulesHeader">RULES OF CONDUCT FOR MEMBERS,DEPENDENTS
+AND GUESTS (ISSUED IN APRIL 2010)</string>
+
+    <string name="membershipRules">
+        \n\n
+HEADQUARTERS SOUTHERN COMMAND,PUNE- 411 001. GOC-IN-C SOUTHERN COMMAND IS THE CHIEF PATRON
+OF RSAMI, PUNE.
+        \n
+\n<font size="14"><b>ENTRY INTO RSAMI</b></font>\n
+\tPOSSESSION OF RSAMI, PUNE MEMBERSHIP/DEPENDENT CARD IS MANDATORY FOR ENTRY INTO RSAMI. NO ENTRY
+SHALL BE PERMITTED WITHOUT MEMBERSHIP/DEPENDENT CARDS. DEPENDENTS UNDER NON- ENTITLED
+CATEGORY WILL NOT BE PERMITTED WITHOUT THE MEMBER ACCOMPANYING THEM INTO RSAMI PUNE.\n
+MEMBERS/DEPENDENTS ARE REQUESTED TO SHOW THEIR MEMBERSHIP/DEPENDENT CARDS WHEN ASKED BY
+THE STAFF ON DUTY/ VENDORS / BAR, TRINCO, CAFÉ CODE RED AND SAI CHAT COUNTER. THE MEMBERSHIP
+CARD IS A PROPERTY OF RSAMI, PUNE. ANY MISUSE/ FRAUDELENT USE WILL BE AN OFFENCE UNDER IPC.
+\n
+\n<font size="14"><b>PAYMENTS OF BILLINGS</b></font>\n
+\tIT HAS BEEN OBSERVED WITH CONCERN THAT SOME MEMBERS DO NOT PAY THEIR RSAMI BILLS IN FULL. AS
+PER PARAGRAPH 82 OF RSAMI RULES AND BYE LAWS-2006,PART I,PART PAYMENT OF BILL IS NOT ACCEPTABLE.
+THIS RULE HAS BEEN REITERATED IN PARAGRAPH 6 OF RULES OF CONDUCT FOR MEMBERS,DEPENDENTS AND
+GUESTS (APR 2009).IN CASE THE BILL IS PAID IN PART, IT WILL BE EQUATED WITH NON PAYMENT OF BILL FOR WHICH THE CREDIT
+FACILITY WILL BE STOPPED AFTER TWO CONSECUTIVE MONTHS FROM THE DATE OF ISSUE OF BILL. THE SAME
+MAY LEAD TO TERMINATION OF MEMBERSHIP WITHOUT NOTICE AFTER TWO MONTHS. (PARAGRAPHS 50 (e), 53,
+82 TO 84 OF RSAMI RULES AND BYE LAWS - 2006 REFER).\n
+\n<font size="14"><b>REFUND OF WRONG BILLING</b></font>\n
+\tMEMBERS ARE REQUESTED TO PAY THE RSAMI BILL FIRST AND THEN RAISE OBSERVATIONS, IF ANY. RSAMI WILL
+NOT BE RESPONSIBLE FOR REFUND IN CASE CREDIT CHITS ARE NOT RECEIVED BY THE SECRETARY/RSAMI WITHIN
+ONE MONTH.\n
+\n<font size="14"><b>PENALTY FOR BOUNCING OF CHEQUES</b></font>\n
+\tPENALTY OF Rs 200/- WILL BE IMPOSED ON DEFAULTING MEMBERS IF THE CHEQUES ARE BOUNCED OR
+RETURNED DUE TO FAULTY WRITING OF CHEQUES, LACK OF SIGNATURES, DATE,ON FIRST OFFENCE.
+HOWEVER, IF THE OFFENCE IS REPEATED MORE THAN TWICE IN A YEAR, MEMBERSHIP MAY BE TERMINATED.
+\n
+\n<font size="14"><b>ELIGIBILITY OF DEPENDENT MEMBERS</b></font>\n
+\tDEPENDENTS OF MEMBERS ARE PERMITTED TO USE RSAMI FACILITIES AS UNDER :-\n
+    (a) SONS. TILL THEY GET EMPLOYED OR ATTAIN THE AGE OF 25 YEARS, WHICHEVER IS EARLIER.
+    \n    (b) DAUGHTERS. TILL THEY GET EMPLOYED OR MARRIED, WHICHEVER IS EARLIER.
+    \n    (c) DEPENDENT PARENTS ( PART II ORDER COPY MUST BE PRODUCED).
+    \n    (d) AFTER ATTAINING THE AGE OF 22 YEARS, THE MEMBER MUST PRODUCE THE PROOF OF DEPENDENTS
+    \n    THAT THEY ARE STILL IN COLLEGE. THE MEMBERSHIP CARDS AFTER 22 YEARS OF AGE WILL BE RENEWED
+    \n    ONLY FOR THREE MONTHS.
+MEMBERS ARE REQUESTED TO CHANGE THE STATUS OF THEIR CHILDREN ON OCCURRENCE AND SURRENDER
+THEIR DEPENDENT CARDS IMMEDIATELY THEREAFTER.\n
+\n<font size="14"><b>GUEST ENTRY</b></font>\n
+\tDETAILS OF GUESTS WILL BE REGISTERED IN GUEST REGISTER AT RECEPTION PRIOR TO THEIR ENTRYINTO
+RSAMI. THE DEFAULTING MEMBERS WILL BE LIABLE FOR PENALTY CHARGES AT THE DISCRETION OF THE
+MANAGEMENT.\n
+\tSERVING OFFRS, NON MEMBER AND MEMBERS OF AFFILIATED INSTITUTES, ARE PERMITTED TO
+BRINGGUESTS ONLY AFTER TAKING PERMISSION FROM SECRETARY, RSAMI, PUNE.\n
+\tWHILE BUYING GUEST COUPONS, MEMBERS ARE REQUESTED TO DECLARE THE CATEGORY OF
+THEIRGUESTS AS ABOVE AND PROVE THEIR IDENTITY BY SHOWING RSAMI/DEF IDENTITY CARDS OF SERVING
+/RETDOFFRS AND RSAMI DEPENDENTS CARDS. MEMBERS ARE REQUESTED TO ENSURE THAT THEIR GUESTS
+AREPROPERLY DRESSED AS PER THE DRESS CODE. OR ELSE, THE ENTRY IN RSAMI WILL NOT BE PERMITTED.
+\n
+\tNOT MORE THAN SIX GUESTS ARE PERMITTED AT A TIME. NO PARTICULAR GUEST IS TO BE INTRODUCEDIN
+THE RSAMI BY ONE MEMBER MORE THAN FOUR TIMES IN A MONTH. TO BRING MORE GUESTS, PRIOR PERMISSION
+FROM MANAGER, RSAMI IS REQUIRED TO BE TAKEN.\n
+\tA RSAMI MEMBER WHOSE MEMBERSHIP HAS BEEN TERMINATED FOR ANY REASON CANNOT BE INTRODUCED AS
+A GUEST AT RSAMI BY ANY OTHER MEMBER.\n
+\n
+<font size="14"><b>RSAMI DRESS CODE</b></font>\n
+\tAS PER PARA 126 OF RSAMI RULES AND BYE LAWS-06, PART-I, RSAMI DRESS CODE IS AS UNDER :-
+\n  (a) GENTLEMEN (INCLUDING BOYS ABOVE 12 YEARS OF AGE).
+ \n\t (i) LOUNGE SUIT/COMBINATION/NATIONAL DRESS WITH LEATHER SHOES WITH SOCKS ; OR,
+\n\t  (ii) FULL SLEEVES SHIRT WITH NECK TIE, TROUSERS,LEATHER SHOES WITH SOCKS ; OR,
+\n\t  (iii) FULL/HALF SLEEVES SHIRT (TUCKED IN) WITH OPEN COLLARS/POLO SHIRTS (WITH COLLARS), TROUSERS
+\n  ,/ JEANS AND LEATHER SHOES WITH SOCKS ; OR
+\n\t  (iv) SAFARI SUIT AND LEATHER SHOES WITH SOCKS.
+\n\t  (v) SIKH GENTLEMEN (INCLUDING BOYS ABOVE 18 YEARS OF AGE) MUST WEAR TURBANS.
+\n\n
+<font size="14"><b>ITEMS OF DRESS NOT PERMITTED TO BE WORN BY GENTLEMEN.</b></font>\n
+    (a) COLLARLESS SHIRTS,TEE-SHIRTS (WITHOUTCOLLARS),SHORTS, SHORT SHIRTS,UNTUCKED SHIRTS,
+    DHOTI KURTA,PAIJAMA, TRADITIONAL DRESSES,SPORTS SHOES AND SANDALS.
+    \n(b) SIKH GENTLEMEN ARE NOT PERMITTED TO WEAR PATKAS AND CAPS.
+    \n(c) WEARING OF JEANS OF ANY TREND( FADED and RIPPED / TORN) BY THE MEMBERS, THEIR DEPENDENTS AND
+    GUESTS IS NOT PERMITTED.
+    \n(d) LADIES (INCLUDING YOUNG LADIES). THEY ARE REQUESTED TO BE APPROPRIATELY DRESSED AS PER
+    NORMS AND TRADITIONS OF OUR SOCIETY AND CULTURE.
+    \n(e) RSAMI DRESS CODE IS APPLICABLE ON ENTERING THE MAIN GATE OF RSAMI, PUNE.
+\n\n
+<font size="14"><b>RSAMI CODE OF CONDUCT</b></font>\n
+\tTHE FOLLOWING WILL BE CONSIDERED AS VIOLATION OF RSAMI CO DE OF CONDUCT :-
+\n(a) NOT BRINGING RSAMI MEMBERSHIP/ DEPENDENT CARDS    - A FINE OF Rs 200/- PER MEMBER.
+\n(b) NOT MAKING/MAKING WRONG ENTRY OF GUEST IN THEGUEST BOOK   - A FINE OF Rs 200/- PER DEFAULT.
+\n(c) VIOLATION OF RSAMI DRESS CODE - A FINE OF Rs 200/- PER DEFAULT.
+\n(d) MISBEHAVIOUR OR UN-GENTLEMANLY/ UNBECOMINGCONDUCT - TERMINATION OF MEMBERSHIP.
+\n\n
+<font size="14"><b>BUSINESS ACTIVITY / MEETING</b></font>\n
+\tPLEASE DO NOT USE RSAMI PREMISES FOR CARRYING OUT ‘BUSINESS MEETINGS’. OR ELSE, ACTION MAY BE
+TAKEN TO TERMINATE THE MEMBERSHIP.
+\n\n
+<font size="14"><b>VISITING OFFICES AT RSAMI</b></font>\n
+\t MEMBERS ARE REQUESTED NOT TO VISIT RSAMI OFFICES BETWEEN 27 TO 30/31OF THE MONTH, AS RSAMI OFFICE
+STAFF REMAINS ENGAGED IN PREPARATION AND DESPATCH OF MONTHLY BILLS. MEMBERS MAY VISIT THE
+SECRETARY BETWEEN 1100H TO 1300H ONLY. CO-OPERATION OF THE MEMBERS IS SOLICITED PLEASE.
+\n\n
+<font size="14"><b>PARKING OF CARS IN RSAMI, PUNE</b></font>\n
+\tMEMBERS ARE REQUESTED TO PARK THEIR CARS IN EARMARKED AREAS INSIDE AND OUTSIDE RSAMI IN A
+MANNER THAT THEIR CARS DO NOT OBSTRUCT THE WAY OF OTHER CARS. CAR PARKING INSIDE RSAMI COMPLEX IS
+ONLY WITH CAR STICKERS ISSUED BY THE RSAMI MANAGEMENT TO AUTHORISED MEMBERS. WRONGLY PARKED
+CARS MAY BE TOWED AWAY BY CIVIL TRAFFIC POLICE AT THE RISK AND COST OF DEFAULTING RSAMI MEMBER.
+AUTHORISATION OF CAR PARKING STICKERS IS AS UNDER :-
+\n
+    (a) MAJ GEN and ABOVE and SENIOR CITIZEN ABOVE 75 YEARS OF AGE. INSIDE CAR (ORANGE HALF MOON).
+ \n (b) ALL OTHER MEMBERS. OUTSIDE CAR PARK (WHITE COLOUR).
+ \n (c) THE CARS OF MEMBERS WITH WHITE COLOUR STICKERS MAY BE PARKED IN THE ‘INSIDE CAR PARK’ IN
+ \n TILED PORTION, ON FIRST COME FIRST SERVE BASIS ONLY.
+ \n (d) TARMAC PORTION OF ‘ INSIDE CAR PARK’ IS RESERVED FOR MAJ GEN AND ABOVE AND MEMBERS ABOVE
+ \n 75 YEARS OF AGE ISSUED WITH ORANGE COLOUR STICKER.
+ \n (e) ON SPECIAL OCCASSIONS, MAJOR/MINOR FUNCTION SPECIAL INSTRUCTION FOR CAR PARKING WILL BE
+ \n APPLICABLE.
+\n\n
+<font size="14"><b>RIGHT TO ADMISSION</b></font>\n
+\t IGNORANCE OF ABOVE RULES OF CONDUCT FOR MEMBERS, DEPENDENTS AND GUESTS IS NO EXCUSE AND
+SHALL NOT BE ACCEPTED BY MANAGEMENT RSAMI, PUNE. BY APPLYING FOR RSAMI,PUNE MEMBERSHIP, THE MEMBERS
+AUTOMATICALLY UNDERTAKE TO ABIDE BY THE RSAMI RULES AND BYE LAWS AND INSTRUCTIONS ISSUED FROM
+TIME TO TIME THROUGH RSAMI NEWS LETTERS/NOTICE BOARD/CINEMA SLIDES.
+\n
+\t RIGHT OF ADMISSION RESERVED AND GOVERNED BY RSAMI, PUNE RULES AND BYE LAWS AND INSTRUCTIONS
+ISSUED FROM TIME TO TIME.
+\n\n
+<font size="14"><b>PAYMENT OF RSAMI BILLS</b></font>\n
+\t IN CASE RSAMI, PUNE BILL FOR A MONTH IS NOT RECEIVED BY 10TH OF THE NEXT MONTH DUE TO POSTAL
+DELAY / NON DELIVERY OF BILLS BY POSTMAN, PLEASE MAKE ENQUIRIES FROM RECEPTIONIST ON TELE NO.
+020-26102917 / 26361105 OR BY PERSONAL VISIT. IT MAY KINDLY BE NOTED THAT IT IS THE RESPONSIBILITY OF
+THE MEMBERS ALSO TO ASCERTAIN OUTSTANDING BILLS AND MAKE PAYMENTS IN TIME TO AVOID ANY .
+EMBARRASMENT OR INCONVENIANCE
+\n
+\t IF THE BILLS ARE NOT PAID WITHIN 30 DAYS, i.e, BY 24TH OF THE NEXT MONTH 2% INTEREST WILL BELEVIED
+BY THE COMPUTERISED BILLING SYSTEM AND THE SAME CAN NOT BE CONDONED.
+    </string>
+    <string name="notices"><font size="14"><b>YEARLY SUBSCRIPTION</b></font>\n
+YEARLY SUBSCRIPTION WILL BE CHARGED IN THE MONTHLY  BILL OF  FEBRUARY OF THAT CORRESPONDING
+        YEAR. MEMBERS ARE REQUESTED TO CLEAR THE BILL BEFORE 25TH  MAR, TO AVOID LEVYING OF 2%
+        INTEREST AFTER TWO MONTHS.
+\n\n
+<font size="14"><b>NON RECEIPT OF RSAMI, PUNE MONTHLY BILLS.</b></font>\n
+\tLARGE NO OF COMPLAINTS ARE BEING RECEIVED FROM MEMBERS FOR NON RECEIPT OF BILLS OR
+        RECEIVING SAME AFTER DUE DATE OF PAYMENT. THE REASONS FOR NON RECEIPT OF MONTHLY
+        BILLS ARE EITHER DUE TO NON DELIVERY BY THE POSTMAN/ POSTAL DELAY OR CHANGE IN PIN
+        CODE NOs. IN ORDER TO AVOID INCONVENIENCE AND LEVYING OF 2% INTEREST DUE TO NON PAYMENT
+        OF BILLS BY DUE DATE, MEMBERS ARE REQUESTED TO :-
+\n(a) UPDATE THEIR ADDRESS AND PIN CODE WITH RSAMI OFFICE.
+\n(b)ASCERTAIN DETAILS OF OUTSTANDING BILLS FROM RECEPTIONIST
+        ON TELE OR BY PERSONAL VISIT AND PAY
+    THE BILLS PROMPTLY.
+\n(c)
+IN CASE THE BILL IS RECEIVED AFTER DUE DATE OF PAYMENT, KEEP THE ENVELOPE INTACT AND DEPOSIT
+    THE SAME WITH RSAMI FOR LODGING COMPLAINT WITH POST OFFICE.
+\n\n
+<font size="14"><b>PACKED/PARCEL FOOD.</b></font>\n
+\tIN ORDER TO PROVIDE QUICK LUNCH AND DINNER SERVICES TO THE MEMBERS AND THEIR DEPENDENTS IN TRINCO RESTAURANT, THE ORDER FOR THE PACK FOOD WILL BE ACCEPTED BETWEEN 1200 H TO 1300 H AND 1900 H TO 2130 H ONLY.
+THE SERVICES FOR PARCEL SERVICE ON THE DAY OF BUFFET LUNCH/DINNER WILL NOT BE PROVIDED.
+\n\n
+<font size="14"><b>MOVIE HALL</b></font>\n
+\tTHE MEMBERS/ DEPENDENTS AND THEIR GUESTS ARE REQUESTED FOR THE FOLLOWING :-
+\n(a)  TO KEEP THE PREMISES, INCL CHAIRS CLEAN AND NOT TO LITTER PREMISES WITH DRINKS, EATABLES,
+    WRAPPERS, PLATES, GLASSES AND BOTTLES.
+\n(b)  NOT TO DRINK AND EAT SNACKS STANDING NEAR THE PARAPIT.
+\n\n
+<font size="14"><b>SEATING ARRANGEMENTS : TRINCO AND POLO BAR</b></font>\n
+\tMEMBERS ARE REQUESTED NOT TO DISTURB THE SEATING ARRANGEMENTS IN TRINCO RESTAURANT
+        AND POLO BAR. GROUP OF MEMBERS AND GUESTS HAVING STRENGTH OF MORE THAN TEN ARE
+        ADVISED TO BOOK PARTY ROOMS FOR DINNER TO ENABLE PROVIDING BETTER SERVICES.
+\n\n
+<font size="14"><b>CAR PARKING STICKERS FOR PARKING TWO/FOUR WHEELERS AT RSAMI, PUNE</b></font>\n
+\tORANGE/ WHITE COLOUR CAR STICKER ISSUED TO MEMBERS.
+        NO VEH IS PERMITTED IN THE ‘INSIDE CAR PARK’ WITHOUT VALID NEW CAR PARK STICKER.
+\n\n
+<font size="14"><b>USE OF MOBILE PHONES</b></font>\n
+\tUSE OF MOBILE PHONES DURING TAMBOLA AND SCREENING OF MOVIE IS STRICTLY PROHIBITED.
+        MEMBERS ARE REQUESTED TO EITHER SWITCH OFF THEIR MOBILES OR USE THE SAME DISCREETLY
+        OUT SIDE THE ARENA TO AVOID INCONVENIENCE TO OTHERS.
+    </string>
+
+    <string name="memRules">\n<u>Membership Rules</u>\n</string>
+
+
+    <string name="theatreInfo">400 seater Movie Theatre with outdoor snack counters is for screening training/other Films and plays / dramas </string>
+
+    <string name="eventLawnInfo">A sprawling expanse of well manicured greens allow for hosting Outdoor Events, Official Functions and Gatherings. The lawns really come into its own on Special Days</string>
+
+    <string name="hallInfo">Over 500 people can be accommodated in this large Hall available for Training, Official Functions,official seminars and Multi Functions</string>
+
+    <string name="guestRoomInfo">Five well furnished air-conditioned rooms are available on a first-come basis to offices on official visit. For allotment please Contact Asst Secyin RSI office</string>
+
+    <string name="barInfo">Well stocked Bars on two floors are air conditioned for the use by the members only</string>
+
+    <string name="trincoInfo">Multi-Cuisine are served during the Lunch and Dinner timings with buffet facilities on Saturdays and Sundays. Party rooms provides fine dining experience to the members</string>
+
+    <string name="cafeInfo">A coffee shop with steaming hot cups of Tea and coffee complemented with an array of bakery and fast food items are available to the members</string>
+
+    <string name="billiardInfo">At RSAMI you will find high quality Billiards table which enables members to practice concerntration and aming</string>
+
+    <string name="swimmingPoolInfo">An Olympic size Station Swimming Pool gives an inviting cool look to the RSAMI campus. With two diving boards and a diving platform the pool provides facility for training in swimming</string>
+
+    <string name="gymInfo">Well equipped gym along with Sauna and steam bath facilities are available to the members and offices to keep themselves physically fit. A physiotherapist is available to advise officers and members on various physical excercises</string>
+
+    <string name="tennisInfo">Two floodlit hard courts provide the perfect setting for tennis lovers to keep the members to sweat it out and keep themselves physically fit</string>
+
+    <string name="squashInfo">Two international standard glass wall squash courts at RSAMI are complement the other sports facilities to remain physically fit all the times</string>
+
+    <string name="cardRoomInfo">Separate cards and Bridge rooms with special timings for ladies are an integral part of the RSAMI facilities.No betting or gambling is allowed</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+
+
+</resources>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ChangeNumber">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scrollbars="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Changing Phone Number or no. of dependent(s)"
+            android:textColor="@color/colorAccent"
+            android:textSize="16dp"
+            android:textAllCaps="false"
+            android:background="@color/colourBlack"
+            android:clickable="false"
+            android:textStyle="bold|italic"/>
+
+        <EditText
+            android:layout_width="300dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/editTextUserId"
+            android:hint="Enter RSAMI ID"/>
+
+        <Button
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/buttonGetPhone"
+            android:layout_marginTop="20dp"
+            android:textStyle="bold"
+            android:background="@color/colourBlack"
+            android:textColor="@color/colorAccent"
+            android:layout_gravity="center"
+            android:text="Get Phone Number and dependent(s)"
+            android:textAllCaps="false"/>
+
+        <TextView
+            android:layout_width="240dp"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content"
+            android:text="Current Phone number"
+            android:layout_marginTop="20dp"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:gravity="center"/>
+
+        <TextView
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:id="@+id/textViewCurrentPhone"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:gravity="center"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="0px"
+                android:layout_weight="2"
+                android:layout_gravity="center"
+                android:layout_height="wrap_content"
+                android:text="Dependent(s)"
+                android:layout_marginTop="1dp"
+                android:textSize="18dp"
+                android:textStyle="bold"
+                android:gravity="center"/>
+
+            <TextView
+                android:layout_width="0px"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="1dp"
+                android:id="@+id/textViewCurrentDep"
+                android:textSize="18dp"
+                android:textStyle="bold"
+                android:gravity="center"/>
+
+        </LinearLayout>
+
+        <EditText
+            android:layout_width="300dp"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:id="@+id/editTextNewPhone"
+            android:inputType="number"
+            android:maxLength="10"
+            android:hint="New Phone number"/>
+
+        <Button
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/buttonChangePhone"
+            android:layout_marginTop="20dp"
+            android:textStyle="bold"
+            android:background="@color/colourBlack"
+            android:textColor="@color/colorAccent"
+            android:layout_gravity="center"
+            android:text="Change Phone Number"
+            android:textAllCaps="false"/>
+
+        <EditText
+            android:layout_width="300dp"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:id="@+id/editTextNewDep"
+            android:inputType="number"
+            android:hint="New no. of dependent(s)"/>
+
+        <Button
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/buttonChangeDep"
+            android:layout_marginTop="20dp"
+            android:textStyle="bold"
+            android:background="@color/colourBlack"
+            android:textColor="@color/colorAccent"
+            android:layout_gravity="center"
+            android:text="Change no. of dependent(s)"
+            android:textAllCaps="false"/>
+    </LinearLayout>
+
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>

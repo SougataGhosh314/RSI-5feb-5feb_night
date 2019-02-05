@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/l1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EFEFEF"
+    android:orientation="vertical"
+    tools:context=".SeatBooking">
+
+    <Button
+        android:id="@+id/seatBook"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:background="@color/colorPrimary"
+        android:text="Confirm Booking"
+        android:textSize="24dp"
+        android:textStyle="bold"
+        android:textColor="#F7D00C" />
+
+    <Button
+        android:id="@+id/getLayout"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:background="@color/colorPrimary"
+        android:text="Get Layout"
+        android:visibility="gone"
+        android:textColor="#F7D00C" />
+
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/l2"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="16"
+        android:scrollbars="vertical">
+
+        <HorizontalScrollView
+            android:id="@+id/layoutSeat"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" />
+
+    </ScrollView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@android:color/holo_blue_dark"
+        android:gravity="center"
+        android:text="SCREEN HERE"
+        android:textColor="@android:color/background_light"
+        android:textSize="16dp"
+        android:textStyle="bold" />
+
+</LinearLayout>

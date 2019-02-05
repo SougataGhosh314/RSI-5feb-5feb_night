@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HistoryActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="\ \n RSAMI, Pune - Over the Years"
+                android:textStyle="bold"
+                android:paddingLeft="4dp"
+                android:textSize="24dp"
+                android:textColor="@color/colorPrimaryDark"
+                />
+
+            <com.androidessence.pinchzoomtextview.PinchZoomTextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/hisRSI_ID"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:textStyle="italic"
+                android:textSize="18dp"
+                android:textColor="@color/colorPrimary"
+                android:fontFamily="cursive"
+                android:gravity="center"
+                android:text="@string/aboutRSAMI"
+                />
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>
